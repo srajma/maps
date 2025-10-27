@@ -37,3 +37,19 @@ Mostly a hub for maps made with [xatra](https://github.com/srajma/xatra), the be
 ![](admin_india_3.png)
 
 ![](nations_india.png)
+
+![](gdp_ratio_india_me.jpeg)
+
+![](gdp_ratio_india_sea.jpeg)
+
+![](gdp_ratio_india_sa.jpeg)
+
+![](gdp_ratio_india_ssa.jpeg)
+
+![](gdp_ratio_india_indonesia.jpeg)
+
+![](gdp_ratio_india_lanka.jpeg)
+
+![](gdp_ratio_india_vietnam.jpeg)
+
+![](gdp_ratio_india_bangladesh.jpeg)
