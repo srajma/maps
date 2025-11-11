@@ -15,6 +15,7 @@ Mostly a hub for maps made with [xatra](https://github.com/srajma/xatra), the be
 - [Modern Indian subcontinent taluk-level map](admin_india_3)
 - [High-speed-rail map concept](hsr)
 - [GDP per capita ratios chart](gdp_ratio)
+- [Terrorism](terrorism)
 
 [← RETVRN to NiṣādaHermaphroditarchaṃśa (Mal'ta boy ka parivar)'s homepage](https://srajma.github.io/)
 
